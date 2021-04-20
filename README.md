@@ -32,7 +32,7 @@ The matching results are displayed in a folder named Resultour.
 The image named "template_process.jpg" shows the process of extracting the prior shape.
 The image named "segment_process.jpg" shows the evolution of the curve in this method.
 The image named "PCB.jpg" is a partial image of the PCB .
-![template_process](template_process.jpg)
+![template_process](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/template_process.jpg)
 ![segment_process](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/segment_process.jpg)
 ![PCB.jpg](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/PCB.jpg)
 
