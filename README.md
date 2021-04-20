@@ -17,3 +17,22 @@ Run 'demo' - It will remove the texture in folder named A.
 
 The  results are displayed in a folder named Resultour.
  
+## 
+
+#### code
+
+Run 'testdemo' - it will use the template in folder named mb to match all the images in folder named img.
+
+#### result
+
+The matching results are displayed in a folder named Resultour.
+​(There are already results in a folder named Resultour0)
+
+###image
+The image named "template_process.jpg" shows the process of extracting the prior shape.
+The image named "segment_process.jpg" shows the evolution of the curve in this method.
+The image named "PCB.jpg" is a partial image of the PCB .
+![template_process](template_process.jpg)
+![segment_process](segment_process.jpg)
+![PCB.jpg](PCB.jpg)
+
