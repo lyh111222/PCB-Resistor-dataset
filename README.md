@@ -33,6 +33,6 @@ The image named "template_process.jpg" shows the process of extracting the prior
 The image named "segment_process.jpg" shows the evolution of the curve in this method.
 The image named "PCB.jpg" is a partial image of the PCB .
 ![template_process](template_process.jpg)
-![segment_process](segment_process.jpg)
+![segment_process](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/segment_process.jpg)
 ![PCB.jpg](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/PCB.jpg)
 
