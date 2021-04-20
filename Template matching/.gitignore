@@ -1,0 +1,12 @@
+example/*
+imgPairs/*
+imgs/*
+testimg/*
+benchmark/*
+results/*
+results2/*
+results3/*
+results4/*
+*.pdf
+*.jpg
+*.mexw64
