@@ -7,3 +7,13 @@ We use them to capture more than 60 PCB images of the same type in a continuous 
 # Folder
 The image folder contains 400 PCB resistance images.  
 GT folder is the corresponding ground truth image of PCB resistor
+## 
+
+#### code
+
+Run 'demo' - It will remove the texture in folder named A.
+
+#### result
+
+The  results are displayed in a folder named Resultour.
+ 
