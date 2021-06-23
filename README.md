@@ -35,4 +35,15 @@ The image named "PCB.jpg" is a partial image of the PCB .
 ![template_process](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/template_process.jpg)
 ![segment_process](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/segment_process.jpg)
 ![PCB.jpg](https://github.com/lyh111222/PCB-Resistor-dataset/blob/main/Template%20matching/PCB.jpg)
-# 
+# Multi-threshold Segmentations
+## Image to be segmented
+tenttest3：It is the improved tent sequence used to initialize the population
+ThetaFit2：It is the fitness function when K is equal to 2 ,which corresponding to demo2.
+ThetaFit3：It is the fitness function when K is equal to 3 ,which corresponding to demo3.
+ThetaFit4：It is the fitness function when K is equal to 4 ,which corresponding to demo4.
+## Demo
+demo2、demo3、demo4: Run, and then the segmented image can be obtained（K=2、3、4）
+## Result
+result12、result22: segmentation result （K=2）
+result13、result23: segmentation result （K=3）
+result14、result24: segmentation result （K=4）
